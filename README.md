@@ -77,7 +77,8 @@ Facturar la Compra
 ### Tecnologias Utilizadas
 
 #### Frontend: Bootstrap 5
-#### Backend: PHP | MariaDB
+#### Backend: PHP | SQL
+#### Montaje: XAMPP
 
 ---
 
