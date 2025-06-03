@@ -38,7 +38,9 @@ Consulta, modifica y elimina la informacion de uno o mas clientes
 
 #### Icons
 Funcionamiento de Iconos
+
 ![icons-image](./public/assets/Readme.md/actions-icons.PNG)
+
 - 1er icono (Verde): Info. Detallada
 - 2do icono (Azul): Modificar
 - 3er icono (Rojo): Eliminar
